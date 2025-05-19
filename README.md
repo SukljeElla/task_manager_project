@@ -1,16 +1,36 @@
 # task_manager_project
 
-A new Flutter project.
+This Flutter project was developed as part of a practical internship.
+
+## Purpose
+
+The app allows users to:
+- Register and log in using Firebase
+- Create, assign, edit, and delete tasks
+- View tasks based on user roles (admin or team member)
+
+## Technologies
+
+- Flutter  
+- Dart  
+- Firebase (Authentication and Firestore)  
+- Git / GitHub  
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```bash
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+Make sure to add your own `google-services.json` file to:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+android/app/google-services.json
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+
+**Ella Šuklje**  
+Student at University of Maribor – FERI  
+GitHub: [https://github.com/SukljeElla](https://github.com/SukljeElla)
