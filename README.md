@@ -14,7 +14,6 @@ The app allows users to:
 - Flutter  
 - Dart  
 - Firebase (Authentication and Firestore)  
-- Git / GitHub  
 
 ## Getting Started
 
